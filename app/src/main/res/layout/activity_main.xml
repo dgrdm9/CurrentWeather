@@ -16,6 +16,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
         android:fontFamily="@font/lato_thin"
+        android:text="Ciudad"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="@android:color/background_light"
@@ -23,7 +24,7 @@
         android:textStyle="bold"
         android:typeface="serif"
         app:layout_constraintEnd_toStartOf="@+id/imageButtonLoc"
-        app:layout_constraintHorizontal_bias="0.736"
+        app:layout_constraintHorizontal_bias="0.597"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
