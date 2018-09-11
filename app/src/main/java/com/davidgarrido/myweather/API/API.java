@@ -18,7 +18,7 @@ public class API {
 
     private static Retrofit retrofit = null;
 
-    public static final String APPKEY = "c579422b82756be75c05a2a13062b985";
+    public static final String APPKEY = "3b0162c720e98c78fa489339ec1118ac";
 
     public static Retrofit getApi() {
         if (retrofit == null) {
